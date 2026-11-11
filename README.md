@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Morocco, covering official tourism boards, rail transport, imperial cities, desert excursions, and cultural guides.
 
+Morocco is a captivating North African destination blending historic imperial cities, Atlas mountain ranges, and Sahara desert landscapes with rich Moorish heritage and Atlantic coasts. This list is intended for independent travelers, cultural explorers, desert trekkers, and architectural historians.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
